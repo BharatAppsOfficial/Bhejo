@@ -66,7 +66,7 @@ The operations of Bhejo is basically for file sharing which is a daily activity.
 
 ## About Us
 
-Bhejo is a project developed by Genonbeta Libre Software Org. The development of the Bhejo app is a group effort of different individuals who have contributed immensely to the project. The project has also received a lot of contributions from the open source community on Github in form of suggestions, bug reports, and fixes, translations, and documentation.
+Bhejo is a project developed by BharatApps. The development of the Bhejo app is a group effort of different individuals who have contributed immensely to the project. The project has also received a lot of contributions from the open source community on Github in form of suggestions, bug reports, and fixes, translations, and documentation.
 
 Bhejo is an open source Android software that solves file sharing problems, such as slow sending speed over a Bluetooth connection, failed to send operation etc. These problems are solved with Bhejo which utilizes the wifi network as a means of transmission and files are shared seamlessly over a wifi connection to another device. Bhejo is designed to allow this operation to be paused or resumed at any time even when there is a case of an error. Bhejo utilizes wifi network and not an internet connection meaning that internet data is not consumed when the software is utilized and also even in areas where there is a poor internet connection, the software still functions optimally.
 The software allows multiple files of different formats to be sent simultaneously.
@@ -77,6 +77,6 @@ The software allows multiple files of different formats to be sent simultaneousl
 
 ## Contact Us
 
-If you have any questions regarding this Privacy Policy or the practices of this software, please contact us by sending an email to genonbeta@gmail.com or by opening an [issue](https://github.com/BharatAppsOfficial/Bhejo/issues/new) on Github
+If you have any questions regarding this Privacy Policy or the practices of this software, please contact us by sending an email to official.bharat.apps@gmail.com or by opening an [issue](https://github.com/BharatAppsOfficial/Bhejo/issues/new) on Github
 Last Updated: This Privacy Policy was last updated on [05-07-2020].
  
